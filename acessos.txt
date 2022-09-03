@@ -1,0 +1,5 @@
+<email>
+<senha>
+<link da pesquisa>
+<usuario>
+<quantidade de tweets>

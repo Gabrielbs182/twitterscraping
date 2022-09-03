@@ -1,0 +1,1366 @@
+1661783141357	geckodriver	INFO	Listening on 127.0.0.1:52000
+1661783144439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilekeg66L"
+1661783145322	Marionette	INFO	Marionette enabled
+1661783145335	Marionette	INFO	Listening on port 52011
+Read port: 52011
+WebDriver BiDi listening on ws://localhost:52001
+1661783145648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilekeg66L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52001/devtools/browser/9aa1ac53-1c9f-4a89-93d0-451d52391336
+1661783159742	Marionette	INFO	Stopped listening on port 52011
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661783812534	geckodriver	INFO	Listening on 127.0.0.1:52588
+1661783815555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilek6qgx9"
+1661783816425	Marionette	INFO	Marionette enabled
+1661783816434	Marionette	INFO	Listening on port 52600
+WebDriver BiDi listening on ws://localhost:52589
+Read port: 52600
+1661783816725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilek6qgx9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52589/devtools/browser/6bb5cf61-a29b-4177-8731-dd10f53047de
+1661783830763	Marionette	INFO	Stopped listening on port 52600
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661783843969	geckodriver	INFO	Listening on 127.0.0.1:52657
+1661783847019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileWGcH0b"
+1661783847888	Marionette	INFO	Marionette enabled
+1661783847896	Marionette	INFO	Listening on port 52669
+WebDriver BiDi listening on ws://localhost:52658
+Read port: 52669
+1661783848187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileWGcH0b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52658/devtools/browser/ad25b669-3b2e-4aaa-bd78-d211329592e4
+1661783862935	Marionette	INFO	Stopped listening on port 52669
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+[Parent 3508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661783880236	geckodriver	INFO	Listening on 127.0.0.1:52727
+1661783883343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile3Bg4zB"
+1661783884158	Marionette	INFO	Marionette enabled
+1661783884165	Marionette	INFO	Listening on port 52738
+WebDriver BiDi listening on ws://localhost:52728
+Read port: 52738
+1661783884487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile3Bg4zB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52728/devtools/browser/a8d4e214-0f78-4c09-8e25-bff719232e04
+1661783898411	Marionette	INFO	Stopped listening on port 52738
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+[Parent 8004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661784358341	geckodriver	INFO	Listening on 127.0.0.1:52972
+1661784361437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileYpwKGQ"
+1661784362259	Marionette	INFO	Marionette enabled
+1661784362267	Marionette	INFO	Listening on port 52984
+WebDriver BiDi listening on ws://localhost:52973
+Read port: 52984
+1661784362549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileYpwKGQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52973/devtools/browser/2311d7da-9fb4-49ff-b124-57c2ce9bdb4a
+1661784375557	Marionette	INFO	Stopped listening on port 52984
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661784406724	geckodriver	INFO	Listening on 127.0.0.1:53049
+1661784409775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilekwZ6Wv"
+1661784410603	Marionette	INFO	Marionette enabled
+1661784410610	Marionette	INFO	Listening on port 53060
+WebDriver BiDi listening on ws://localhost:53050
+Read port: 53060
+1661784410908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilekwZ6Wv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53050/devtools/browser/e3781fec-6847-4be3-9ce4-04bd0a63cf02
+1661784425066	Marionette	INFO	Stopped listening on port 53060
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661784587373	geckodriver	INFO	Listening on 127.0.0.1:53287
+1661784590462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiLHhyA"
+1661784591309	Marionette	INFO	Marionette enabled
+1661784591318	Marionette	INFO	Listening on port 53300
+WebDriver BiDi listening on ws://localhost:53288
+Read port: 53300
+1661784591597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiLHhyA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53288/devtools/browser/c45e896f-a807-4d03-9fe5-a5862d0e720f
+1661784605741	Marionette	INFO	Stopped listening on port 53300
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661784736991	geckodriver	INFO	Listening on 127.0.0.1:53440
+1661784740032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilezomCkb"
+1661784740859	Marionette	INFO	Marionette enabled
+1661784740868	Marionette	INFO	Listening on port 53453
+WebDriver BiDi listening on ws://localhost:53441
+Read port: 53453
+1661784741164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilezomCkb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53441/devtools/browser/87d21a94-b778-465d-85e0-1f4388b3a426
+1661784831980	geckodriver	INFO	Listening on 127.0.0.1:53550
+1661784835016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileBzbLip"
+1661784835828	Marionette	INFO	Marionette enabled
+1661784835841	Marionette	INFO	Listening on port 53562
+WebDriver BiDi listening on ws://localhost:53551
+Read port: 53562
+1661784836143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileBzbLip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53551/devtools/browser/4859bba5-7263-47ca-912a-d9afb609cd46
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661784854909	Marionette	INFO	Stopped listening on port 53562
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661784931238	geckodriver	INFO	Listening on 127.0.0.1:53739
+1661784934355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileaWHWzJ"
+1661784935148	Marionette	INFO	Marionette enabled
+1661784935157	Marionette	INFO	Listening on port 53752
+WebDriver BiDi listening on ws://localhost:53740
+Read port: 53752
+1661784935436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileaWHWzJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53740/devtools/browser/f7087444-387c-4f49-8e23-576be08a8245
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: "Unable to find target with innerWindowId:4294967298"
+1661785433815	Marionette	INFO	Stopped listening on port 53752
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661785450972	geckodriver	INFO	Listening on 127.0.0.1:60187
+1661785454014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilehBKJMG"
+1661785454888	Marionette	INFO	Marionette enabled
+1661785454898	Marionette	INFO	Listening on port 60209
+WebDriver BiDi listening on ws://localhost:60188
+Read port: 60209
+1661785455241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilehBKJMG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60188/devtools/browser/5393a9bc-4a2c-44b3-b565-2ea89e34f28f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661785500941	Marionette	INFO	Stopped listening on port 60209
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+1661785860291	geckodriver	INFO	Listening on 127.0.0.1:60938
+1661785863323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKZFAez"
+1661785864151	Marionette	INFO	Marionette enabled
+1661785864160	Marionette	INFO	Listening on port 60951
+WebDriver BiDi listening on ws://localhost:60939
+Read port: 60951
+1661785864445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKZFAez\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60939/devtools/browser/730f956d-8ddf-4b63-ab47-e9e8d6cc6434
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661785883062	Marionette	INFO	Stopped listening on port 60951
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
+1661785909130	geckodriver	INFO	Listening on 127.0.0.1:61019
+1661785912029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileK3ti3t"
+1661785912918	Marionette	INFO	Marionette enabled
+1661785912925	Marionette	INFO	Listening on port 61031
+Read port: 61031
+WebDriver BiDi listening on ws://localhost:61020
+1661785913210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileK3ti3t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61020/devtools/browser/44f0a180-e5c6-4871-8fac-4983b9a22910
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661785932008	Marionette	INFO	Stopped listening on port 61031
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileK3ti3t\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileK3ti3t\sessionCheckpoints.json)
+1661786450863	geckodriver	INFO	Listening on 127.0.0.1:61470
+1661786453914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiles5G9j0"
+1661786454744	Marionette	INFO	Marionette enabled
+1661786454751	Marionette	INFO	Listening on port 61482
+WebDriver BiDi listening on ws://localhost:61471
+Read port: 61482
+1661786455034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiles5G9j0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61471/devtools/browser/234c94eb-1910-4144-8971-bf76fe553bde
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661786473989	Marionette	INFO	Stopped listening on port 61482
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f05d3bb8.js, line 82: TypeError: can't access dead object
+[Parent 11356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661786769387	geckodriver	INFO	Listening on 127.0.0.1:61702
+1661786772446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileLby2LL"
+1661786773356	Marionette	INFO	Marionette enabled
+1661786773365	Marionette	INFO	Listening on port 61713
+WebDriver BiDi listening on ws://localhost:61703
+Read port: 61713
+1661786774010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileLby2LL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61703/devtools/browser/df625c59-f414-4880-9925-7cdfc0148bc0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661787122591	geckodriver	INFO	Listening on 127.0.0.1:61985
+1661787125640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIb4rWt"
+1661787126495	Marionette	INFO	Marionette enabled
+1661787126503	Marionette	INFO	Listening on port 61997
+WebDriver BiDi listening on ws://localhost:61986
+Read port: 61997
+1661787126809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIb4rWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61986/devtools/browser/44c84def-16b4-4208-9a9c-3cd6788e7c95
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661787187014	Marionette	INFO	Stopped listening on port 61997
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661787584095	geckodriver	INFO	Listening on 127.0.0.1:62627
+1661787587140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileO5ls7r"
+1661787587975	Marionette	INFO	Marionette enabled
+1661787587985	Marionette	INFO	Listening on port 62638
+WebDriver BiDi listening on ws://localhost:62628
+Read port: 62638
+1661787588265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileO5ls7r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62628/devtools/browser/4748917b-45ff-4aa7-8388-38ba86535b6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilew8eMD6"
+1661787901926	Marionette	INFO	Marionette enabled
+1661787901938	Marionette	INFO	Listening on port 62957
+WebDriver BiDi listening on ws://localhost:62946
+Read port: 62957
+1661787902223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilew8eMD6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62946/devtools/browser/a95d015e-fb08-4faa-8f76-ffaeb912c701
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661788186782	geckodriver	INFO	Listening on 127.0.0.1:63186
+1661788189851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ9g0pr"
+1661788190675	Marionette	INFO	Marionette enabled
+1661788190686	Marionette	INFO	Listening on port 63197
+WebDriver BiDi listening on ws://localhost:63187
+Read port: 63197
+1661788190978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ9g0pr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63187/devtools/browser/dd2be9a9-32e4-4493-a87b-84bc9c88dfa6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hd9qiIGAqjescZkeItwy2wgAtCffeqilIyGkY3Q_MTc.js line 2 > eval line 1184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+te	INFO	Marionette enabled
+1661788283149	Marionette	INFO	Listening on port 63326
+WebDriver BiDi listening on ws://localhost:63314
+Read port: 63326
+1661788283447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiledqphHj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63314/devtools/browser/5b896336-50dd-42f0-b6e4-642dccba8042
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661788537193	geckodriver	INFO	Listening on 127.0.0.1:63541
+1661788540223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileH1T1nb"
+1661788541108	Marionette	INFO	Marionette enabled
+1661788541116	Marionette	INFO	Listening on port 63553
+Read port: 63553
+WebDriver BiDi listening on ws://localhost:63542
+1661788541408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileH1T1nb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63542/devtools/browser/94522248-c97e-4049-8010-09c0ceae90db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661788759004	geckodriver	INFO	Listening on 127.0.0.1:63803
+1661788762051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileAMFFhn"
+1661788762883	Marionette	INFO	Marionette enabled
+1661788762891	Marionette	INFO	Listening on port 63815
+WebDriver BiDi listening on ws://localhost:63804
+Read port: 63815
+1661788763182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileAMFFhn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63804/devtools/browser/67f22450-18d6-42a3-adbc-803328ca009f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661789097738	geckodriver	INFO	Listening on 127.0.0.1:64205
+1661789100773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqS34Nc"
+1661789101610	Marionette	INFO	Marionette enabled
+1661789101619	Marionette	INFO	Listening on port 64217
+WebDriver BiDi listening on ws://localhost:64206
+Read port: 64217
+1661789101893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqS34Nc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64206/devtools/browser/20deb8c2-d447-41ab-bc17-8870cc226b2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661789206050	geckodriver	INFO	Listening on 127.0.0.1:64367
+1661789209129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZkFiC8"
+1661789209947	Marionette	INFO	Marionette enabled
+1661789209955	Marionette	INFO	Listening on port 64378
+Read port: 64378
+WebDriver BiDi listening on ws://localhost:64368
+1661789210239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZkFiC8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64368/devtools/browser/8c00a2e8-e798-471a-b5d2-c2ed32ad89d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2055: TypeError: currentPanel is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661789436492	geckodriver	INFO	Listening on 127.0.0.1:64566
+1661789439548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilew3PZ7d"
+1661789440396	Marionette	INFO	Marionette enabled
+1661789440405	Marionette	INFO	Listening on port 64579
+WebDriver BiDi listening on ws://localhost:64567
+Read port: 64579
+1661789440699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilew3PZ7d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64567/devtools/browser/35ebed00-2600-4151-9bf9-2f02bcfcc3c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661789695163	geckodriver	INFO	Listening on 127.0.0.1:64832
+1661789698203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIlV1i6"
+1661789699045	Marionette	INFO	Marionette enabled
+1661789699052	Marionette	INFO	Listening on port 64844
+WebDriver BiDi listening on ws://localhost:64833
+Read port: 64844
+1661789699336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIlV1i6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64833/devtools/browser/f1d2e2d8-0aa3-49ee-be4e-7928f276660b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661789795676	geckodriver	INFO	Listening on 127.0.0.1:64957
+1661789798728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileHDKRnt"
+1661789799571	Marionette	INFO	Marionette enabled
+1661789799578	Marionette	INFO	Listening on port 64971
+WebDriver BiDi listening on ws://localhost:64958
+Read port: 64971
+1661789799869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileHDKRnt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64958/devtools/browser/8555b2f0-1643-4d66-a446-89fdf70d2965
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661790258852	geckodriver	INFO	Listening on 127.0.0.1:65518
+1661790261892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiledNwNlJ"
+1661790262939	Marionette	INFO	Marionette enabled
+1661790262951	Marionette	INFO	Listening on port 65531
+WebDriver BiDi listening on ws://localhost:65519
+Read port: 65531
+1661790263291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiledNwNlJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65519/devtools/browser/ae5238dd-aa6a-4142-93d3-55110141333d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661790367565	Marionette	INFO	Stopped listening on port 65531
+[Parent 20792, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1661790368997	geckodriver	INFO	Listening on 127.0.0.1:49363
+1661790372006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile25W7M7"
+1661790372877	Marionette	INFO	Marionette enabled
+1661790372885	Marionette	INFO	Listening on port 49386
+WebDriver BiDi listening on ws://localhost:49364
+Read port: 49386
+1661790373182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile25W7M7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49364/devtools/browser/b0a17299-3fcd-496d-a4f8-56601830c477
+1661790402884	geckodriver	INFO	Listening on 127.0.0.1:49733
+1661790405952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile2KiMIc"
+1661790407121	Marionette	INFO	Marionette enabled
+1661790407132	Marionette	INFO	Listening on port 49776
+WebDriver BiDi listening on ws://localhost:49734
+Read port: 49776
+1661790407546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile2KiMIc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49734/devtools/browser/85ddaf9e-6d3f-4312-b6b3-972e12096ac3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661790544805	geckodriver	INFO	Listening on 127.0.0.1:50078
+1661790547877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileybzE79"
+1661790548757	Marionette	INFO	Marionette enabled
+1661790548767	Marionette	INFO	Listening on port 50093
+WebDriver BiDi listening on ws://localhost:50079
+Read port: 50093
+1661790549062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileybzE79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50079/devtools/browser/487e96ed-5a29-48f0-bffb-e1ab6a81f3c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661790621405	Marionette	INFO	Stopped listening on port 50093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13212, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1661790631959	geckodriver	INFO	Listening on 127.0.0.1:50230
+1661790635014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqwv7hi"
+1661790635867	Marionette	INFO	Marionette enabled
+1661790635875	Marionette	INFO	Listening on port 50249
+WebDriver BiDi listening on ws://localhost:50231
+Read port: 50249
+1661790636195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqwv7hi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50231/devtools/browser/b833ba3e-1be5-42f0-a0de-058a86acbafd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+1661790856808	geckodriver	INFO	Listening on 127.0.0.1:50577
+1661790859868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileohCvrx"
+1661790860824	Marionette	INFO	Marionette enabled
+1661790860832	Marionette	INFO	Listening on port 50592
+WebDriver BiDi listening on ws://localhost:50578
+Read port: 50592
+1661790861123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileohCvrx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50578/devtools/browser/80b7793c-e739-4ac4-afbd-10801f19d03b
+1661790912777	geckodriver	INFO	Listening on 127.0.0.1:50696
+1661790915875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile4ai1P4"
+1661790916695	Marionette	INFO	Marionette enabled
+1661790916703	Marionette	INFO	Listening on port 50709
+WebDriver BiDi listening on ws://localhost:50697
+Read port: 50709
+1661790917014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile4ai1P4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50697/devtools/browser/89a71420-4fc1-4137-a765-58509af28cdf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/customhighlighter120, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7980:36\nWindowIsClosing@chrome://browser/content/browser.js:8009:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3031:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/customhighlighter120, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nunhighlightNode/<@resource://devtools/client/inspector/boxmodel/actions/box-model-highlighter.js:81:36\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\nonMouseOut@resource://devtools/client/inspector/flexbox/components/FlexItem.js:54:35\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7980:36\nWindowIsClosing@chrome://browser/content/browser.js:8009:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3031:22\noncommand@chrome://browser/content/browser.xhtml:1:24\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661791070516	Marionette	INFO	Stopped listening on port 50709
+1661791084589	geckodriver	INFO	Listening on 127.0.0.1:50951
+1661791087650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50952" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoQMkmp"
+1661791088526	Marionette	INFO	Marionette enabled
+1661791088536	Marionette	INFO	Listening on port 50966
+WebDriver BiDi listening on ws://localhost:50952
+Read port: 50966
+1661791088859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoQMkmp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50952/devtools/browser/16d628f7-3617-499c-b125-c9dd141ce429
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+console.error: "Tried to call unwatchFronts for the 'accessibility' type on an already destroyed front 'windowGlobalTarget'."
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661791656611	Marionette	INFO	Stopped listening on port 50966
+[Parent 21208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+NFO	Marionette enabled
+1661791640647	Marionette	INFO	Listening on port 51633
+WebDriver BiDi listening on ws://localhost:51618
+Read port: 51633
+1661791640841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileJv7e7G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51618/devtools/browser/1760ac1f-03a9-4d80-9514-52864b7dd982
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661888610098	geckodriver	INFO	Listening on 127.0.0.1:55104
+1661888613201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileRVnQtp"
+*** You are running in headless mode.
+1661888614564	Marionette	INFO	Marionette enabled
+1661888614574	Marionette	INFO	Listening on port 55114
+WebDriver BiDi listening on ws://localhost:55105
+Read port: 55114
+1661888614807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileRVnQtp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55105/devtools/browser/ce64a43f-0bf7-455e-856e-7a2159b9320b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1661889278185	geckodriver	INFO	Listening on 127.0.0.1:55398
+1661889281232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile1AT6g4"
+1661889282127	Marionette	INFO	Marionette enabled
+1661889282138	Marionette	INFO	Listening on port 55410
+WebDriver BiDi listening on ws://localhost:55399
+Read port: 55410
+1661889282444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile1AT6g4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55399/devtools/browser/879eb2c2-5afc-49d4-9706-cc521578c858
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.79b3ca78.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1661973792864	geckodriver	INFO	Listening on 127.0.0.1:61318
+1661973795928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqpXISr"
+1661973797437	Marionette	INFO	Marionette enabled
+1661973797449	Marionette	INFO	Listening on port 61330
+WebDriver BiDi listening on ws://localhost:61319
+Read port: 61330
+1661973797876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqpXISr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61319/devtools/browser/c56cef62-52f8-43d9-8479-042cbe58e06e
+1661973812934	Marionette	INFO	Stopped listening on port 61330
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileqpXISr\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileqpXISr\sessionCheckpoints.json)
+[Parent 21996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661973825366	geckodriver	INFO	Listening on 127.0.0.1:61374
+1661973837541	geckodriver	INFO	Listening on 127.0.0.1:61381
+1661973840601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileaKFIHI"
+1661973841454	Marionette	INFO	Marionette enabled
+1661973841465	Marionette	INFO	Listening on port 61392
+WebDriver BiDi listening on ws://localhost:61382
+Read port: 61392
+1661973841779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileaKFIHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61382/devtools/browser/70a36f8d-3508-4c0c-8c44-6d3d9bb10ffc
+1661973881782	geckodriver	INFO	Listening on 127.0.0.1:61420
+1661973884835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile4CMK31"
+1661973885677	Marionette	INFO	Marionette enabled
+1661973885687	Marionette	INFO	Listening on port 61430
+WebDriver BiDi listening on ws://localhost:61421
+Read port: 61430
+1661973886099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile4CMK31\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61421/devtools/browser/0bc5176d-3faf-485f-98c3-bd07cc5388e0
+1661973900347	Marionette	INFO	Stopped listening on port 61430
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1661974045799	geckodriver	INFO	Listening on 127.0.0.1:61513
+1661974048864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileE9ErzS"
+1661974049733	Marionette	INFO	Marionette enabled
+1661974049743	Marionette	INFO	Listening on port 61523
+WebDriver BiDi listening on ws://localhost:61514
+Read port: 61523
+1661974050050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileE9ErzS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61514/devtools/browser/e5b830e4-6c52-481a-a76a-885a1a3186a2
+1661974133573	geckodriver	INFO	Listening on 127.0.0.1:61570
+1661974136638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileP08KUd"
+1661974137470	Marionette	INFO	Marionette enabled
+1661974137479	Marionette	INFO	Listening on port 61580
+WebDriver BiDi listening on ws://localhost:61571
+Read port: 61580
+1661974137791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileP08KUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61571/devtools/browser/fa8e7531-0e47-40e5-b627-66bac9ac2a92
+1661974249324	geckodriver	INFO	Listening on 127.0.0.1:61649
+1661974252396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiyNVUa"
+1661974253266	Marionette	INFO	Marionette enabled
+1661974253273	Marionette	INFO	Listening on port 61660
+WebDriver BiDi listening on ws://localhost:61650
+Read port: 61660
+1661974253572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiyNVUa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61650/devtools/browser/7efe013e-9d6b-4add-b544-945baf7cd860
+1661974268273	Marionette	INFO	Stopped listening on port 61660
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1661974279951	geckodriver	INFO	Listening on 127.0.0.1:61705
+1661974283007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileswKkDu"
+1661974283844	Marionette	INFO	Marionette enabled
+1661974283852	Marionette	INFO	Listening on port 61715
+WebDriver BiDi listening on ws://localhost:61706
+Read port: 61715
+1661974284173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileswKkDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61706/devtools/browser/2b61a9ec-d8da-4b8d-9bb2-0c8e513f6596
+1661974298395	Marionette	INFO	Stopped listening on port 61715
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1661974333741	geckodriver	INFO	Listening on 127.0.0.1:61765
+1661974336827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61766" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileahORS0"
+1661974337675	Marionette	INFO	Marionette enabled
+1661974337683	Marionette	INFO	Listening on port 61775
+WebDriver BiDi listening on ws://localhost:61766
+Read port: 61775
+1661974337999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileahORS0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61766/devtools/browser/9ede056e-0489-4f0d-a57c-4a96f01e9760
+1661974355336	Marionette	INFO	Stopped listening on port 61775
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+[Parent 25516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661974433429	geckodriver	INFO	Listening on 127.0.0.1:54152
+1661974436506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiletw9883"
+1661974437396	Marionette	INFO	Marionette enabled
+1661974437404	Marionette	INFO	Listening on port 54162
+WebDriver BiDi listening on ws://localhost:54153
+Read port: 54162
+1661974437756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiletw9883\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54153/devtools/browser/1b41f9c5-7988-424d-95ad-0c65f4f1c60b
+1661974451675	Marionette	INFO	Stopped listening on port 54162
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1661974475919	geckodriver	INFO	Listening on 127.0.0.1:54230
+1661974478984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileFZgRDy"
+1661974479836	Marionette	INFO	Marionette enabled
+1661974479845	Marionette	INFO	Listening on port 54240
+WebDriver BiDi listening on ws://localhost:54231
+Read port: 54240
+1661974480160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileFZgRDy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54231/devtools/browser/01eac2d2-e5c2-4264-b549-eb7297548414
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.5f679a18.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1661974505345	Marionette	INFO	Stopped listening on port 54240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661974628667	geckodriver	INFO	Listening on 127.0.0.1:54337
+1661974631748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileeS4cit"
+1661974632612	Marionette	INFO	Marionette enabled
+1661974632621	Marionette	INFO	Listening on port 54347
+WebDriver BiDi listening on ws://localhost:54338
+Read port: 54347
+1661974632940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileeS4cit\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54338/devtools/browser/8e94eafc-7409-4005-aff4-cfdb67bbd096
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662223079816	geckodriver	INFO	Listening on 127.0.0.1:50432
+1662223082895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ4YkkU"
+1662223084260	Marionette	INFO	Marionette enabled
+1662223084270	Marionette	INFO	Listening on port 50443
+WebDriver BiDi listening on ws://localhost:50433
+Read port: 50443
+1662223084577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ4YkkU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50433/devtools/browser/447e6a9f-2b1a-4f94-a215-df2170940fd1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662223388137	Marionette	INFO	Stopped listening on port 50443
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662223672888	geckodriver	INFO	Listening on 127.0.0.1:50730
+1662223675981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIkQUbV"
+1662223676784	Marionette	INFO	Marionette enabled
+1662223676792	Marionette	INFO	Listening on port 50743
+WebDriver BiDi listening on ws://localhost:50731
+Read port: 50743
+1662223677067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIkQUbV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50731/devtools/browser/d8930dc2-90b4-4374-a722-bfd637c2259e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662223725315	Marionette	INFO	Stopped listening on port 50743
+1662223737669	geckodriver	INFO	Listening on 127.0.0.1:50829
+1662223740722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile98QYJE"
+1662223741690	Marionette	INFO	Marionette enabled
+1662223741702	Marionette	INFO	Listening on port 50841
+Read port: 50841
+WebDriver BiDi listening on ws://localhost:50830
+1662223742372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile98QYJE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50830/devtools/browser/20d7a7cd-b5c3-407e-903f-9067e8ba182a
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662223903564	Marionette	INFO	Stopped listening on port 50841
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662223959367	geckodriver	INFO	Listening on 127.0.0.1:51042
+1662223962438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileRl2pcJ"
+1662223963313	Marionette	INFO	Marionette enabled
+1662223963322	Marionette	INFO	Listening on port 51055
+WebDriver BiDi listening on ws://localhost:51043
+Read port: 51055
+1662223963603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileRl2pcJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51043/devtools/browser/4620ff41-63fe-41cf-8cd6-259532395262
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662224305543	geckodriver	INFO	Listening on 127.0.0.1:51327
+1662224308591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile5dTrFM"
+1662224309611	Marionette	INFO	Marionette enabled
+1662224309623	Marionette	INFO	Listening on port 51339
+WebDriver BiDi listening on ws://localhost:51328
+Read port: 51339
+1662224310180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile5dTrFM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51328/devtools/browser/1ab4ac3d-0137-48ab-8361-7d13ca5cd6d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662224682637	Marionette	INFO	Stopped listening on port 51339
+1662224723153	geckodriver	INFO	Listening on 127.0.0.1:51709
+1662224726182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileOZaBJD"
+1662224727108	Marionette	INFO	Marionette enabled
+1662224727119	Marionette	INFO	Listening on port 51720
+WebDriver BiDi listening on ws://localhost:51710
+Read port: 51720
+1662224727471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileOZaBJD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51710/devtools/browser/6bf1dcda-f231-4cf3-a86d-b5bf9529a4e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662224786278	Marionette	INFO	Stopped listening on port 51720
+[Parent 12316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662224796125	geckodriver	INFO	Listening on 127.0.0.1:51817
+1662224799214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile33W5rj"
+1662224800016	Marionette	INFO	Marionette enabled
+1662224800025	Marionette	INFO	Listening on port 51828
+WebDriver BiDi listening on ws://localhost:51818
+Read port: 51828
+1662224800298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile33W5rj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51818/devtools/browser/fde31dda-7ec4-40e5-82f3-45dd9a857eb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662225114846	Marionette	INFO	Stopped listening on port 51828
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662225130367	geckodriver	INFO	Listening on 127.0.0.1:52057
+1662225133440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilewK5CE9"
+1662225134239	Marionette	INFO	Marionette enabled
+1662225134247	Marionette	INFO	Listening on port 52069
+WebDriver BiDi listening on ws://localhost:52058
+Read port: 52069
+1662225134521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilewK5CE9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52058/devtools/browser/b7219cc8-4956-491e-87aa-9d65ee37d7e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662225221531	geckodriver	INFO	Listening on 127.0.0.1:52155
+1662225224616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoSvanX"
+1662225225440	Marionette	INFO	Marionette enabled
+1662225225448	Marionette	INFO	Listening on port 52167
+WebDriver BiDi listening on ws://localhost:52156
+Read port: 52167
+1662225225752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoSvanX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52156/devtools/browser/0727b281-0ba7-4f90-8202-23f5181bb548
+1662225364350	geckodriver	INFO	Listening on 127.0.0.1:52284
+1662225367414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilejwOOeB"
+1662225368214	Marionette	INFO	Marionette enabled
+1662225368223	Marionette	INFO	Listening on port 52296
+WebDriver BiDi listening on ws://localhost:52285
+Read port: 52296
+1662225368512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilejwOOeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52285/devtools/browser/79ee95b5-bba1-4110-9f9d-e4e5d570a87e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662225648246	Marionette	INFO	Stopped listening on port 52296
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662225658151	geckodriver	INFO	Listening on 127.0.0.1:52538
+1662225661223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileJ42P0g"
+1662225662066	Marionette	INFO	Marionette enabled
+1662225662074	Marionette	INFO	Listening on port 52551
+WebDriver BiDi listening on ws://localhost:52539
+Read port: 52551
+1662225662363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileJ42P0g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52539/devtools/browser/3a412930-4d1d-4652-91e6-22df5fe70000
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662225700812	Marionette	INFO	Stopped listening on port 52551
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662225739505	geckodriver	INFO	Listening on 127.0.0.1:52641
+1662225742556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileasoq60"
+1662225743380	Marionette	INFO	Marionette enabled
+1662225743388	Marionette	INFO	Listening on port 52654
+WebDriver BiDi listening on ws://localhost:52642
+Read port: 52654
+1662225743670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileasoq60\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52642/devtools/browser/3ff4701e-78de-4be3-9212-7c35110c18c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662225825552	geckodriver	INFO	Listening on 127.0.0.1:52781
+1662225828626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilez1GzUg"
+1662225829441	Marionette	INFO	Marionette enabled
+1662225829450	Marionette	INFO	Listening on port 52793
+WebDriver BiDi listening on ws://localhost:52782
+Read port: 52793
+1662225829730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilez1GzUg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52782/devtools/browser/23498c33-3932-4eb5-8210-fd5adf4c4feb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1662226257236	Marionette	INFO	Stopped listening on port 52793
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662226271327	geckodriver	INFO	Listening on 127.0.0.1:53092
+1662226274377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileD2oOqJ"
+1662226275237	Marionette	INFO	Marionette enabled
+1662226275246	Marionette	INFO	Listening on port 53104
+WebDriver BiDi listening on ws://localhost:53093
+Read port: 53104
+1662226275592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileD2oOqJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53093/devtools/browser/aa928eba-e615-4683-afc6-cd42b4af2b6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662226611214	geckodriver	INFO	Listening on 127.0.0.1:53343
+1662226614280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileXuqoEL"
+1662226615114	Marionette	INFO	Marionette enabled
+1662226615123	Marionette	INFO	Listening on port 53355
+WebDriver BiDi listening on ws://localhost:53344
+Read port: 53355
+1662226615421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileXuqoEL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53344/devtools/browser/408e96b7-bb51-4494-a0f5-cc02468a38c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662226774066	Marionette	INFO	Stopped listening on port 53355
+1662226787182	geckodriver	INFO	Listening on 127.0.0.1:53558
+1662226790228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileEtaEIw"
+1662226791091	Marionette	INFO	Marionette enabled
+1662226791101	Marionette	INFO	Listening on port 53571
+WebDriver BiDi listening on ws://localhost:53559
+Read port: 53571
+1662226791441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662226899820	geckodriver	INFO	Listening on 127.0.0.1:53675
+1662226902905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileNUNVTq"
+1662226903769	Marionette	INFO	Marionette enabled
+1662226903779	Marionette	INFO	Listening on port 53687
+WebDriver BiDi listening on ws://localhost:53676
+Read port: 53687
+1662226904127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileNUNVTq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53676/devtools/browser/d2c22ea8-447e-4705-b4cb-43f1ceb98968
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227024114	Marionette	INFO	Stopped listening on port 53687
+1662227046573	geckodriver	INFO	Listening on 127.0.0.1:53825
+1662227049607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileFjXLpE"
+1662227050456	Marionette	INFO	Marionette enabled
+1662227050464	Marionette	INFO	Listening on port 53837
+WebDriver BiDi listening on ws://localhost:53826
+Read port: 53837
+1662227050761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileFjXLpE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53826/devtools/browser/806363b8-5949-41f7-b827-4fdeddedd3ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227208920	Marionette	INFO	Stopped listening on port 53837
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662227219439	geckodriver	INFO	Listening on 127.0.0.1:54005
+1662227222477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoTQPBf"
+1662227223314	Marionette	INFO	Marionette enabled
+1662227223322	Marionette	INFO	Listening on port 54018
+WebDriver BiDi listening on ws://localhost:54006
+Read port: 54018
+1662227223878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileoTQPBf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54006/devtools/browser/19734721-9e8d-4734-b2fd-2ac8f845575c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227477408	Marionette	INFO	Stopped listening on port 54018
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662227486858	geckodriver	INFO	Listening on 127.0.0.1:54244
+1662227489953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile6knRPs"
+1662227490804	Marionette	INFO	Marionette enabled
+1662227490813	Marionette	INFO	Listening on port 54256
+WebDriver BiDi listening on ws://localhost:54245
+Read port: 54256
+1662227491106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile6knRPs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54245/devtools/browser/ac61f937-aa40-408c-b2cf-79bac0ef56d5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227597282	Marionette	INFO	Stopped listening on port 54256
+1662227621653	geckodriver	INFO	Listening on 127.0.0.1:52032
+1662227624711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile9jQM4L"
+1662227625608	Marionette	INFO	Marionette enabled
+1662227625626	Marionette	INFO	Listening on port 52044
+WebDriver BiDi listening on ws://localhost:52033
+Read port: 52044
+1662227625956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile9jQM4L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52033/devtools/browser/2025c7e4-553f-4a1d-8ee4-6da2bbf9a79b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227724774	Marionette	INFO	Stopped listening on port 52044
+1662227762967	geckodriver	INFO	Listening on 127.0.0.1:52230
+1662227766027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileVp8nja"
+1662227766851	Marionette	INFO	Marionette enabled
+1662227766858	Marionette	INFO	Listening on port 52241
+WebDriver BiDi listening on ws://localhost:52231
+Read port: 52241
+1662227767155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileVp8nja\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52231/devtools/browser/f5355d87-87a6-4ec3-8540-5ed56c61c3bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227826966	Marionette	INFO	Stopped listening on port 52241
+1662227845209	geckodriver	INFO	Listening on 127.0.0.1:52337
+1662227848306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilevN7c9o"
+1662227849131	Marionette	INFO	Marionette enabled
+1662227849138	Marionette	INFO	Listening on port 52348
+WebDriver BiDi listening on ws://localhost:52338
+Read port: 52348
+1662227849432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilevN7c9o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52338/devtools/browser/3845eb72-be3d-4468-821e-5813ba784241
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662227890097	Marionette	INFO	Stopped listening on port 52348
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662227939712	geckodriver	INFO	Listening on 127.0.0.1:52450
+1662227942791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileASlmka"
+1662227943598	Marionette	INFO	Marionette enabled
+1662227943606	Marionette	INFO	Listening on port 52462
+WebDriver BiDi listening on ws://localhost:52451
+Read port: 52462
+1662227943909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileASlmka\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52451/devtools/browser/eb2b40c1-8274-4aa1-8e3b-83acd551944c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662228110963	geckodriver	INFO	Listening on 127.0.0.1:52605
+1662228114037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "52606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexLPkRu"
+*** You are running in headless mode.
+1662228114861	Marionette	INFO	Marionette enabled
+1662228114868	Marionette	INFO	Listening on port 52618
+WebDriver BiDi listening on ws://localhost:52606
+Read port: 52618
+1662228115051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexLPkRu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52606/devtools/browser/15758103-8cc8-4512-bb12-20471bbcf8b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662228169628	Marionette	INFO	Stopped listening on port 52618
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662228825277	geckodriver	INFO	Listening on 127.0.0.1:53110
+1662228828313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiley5kIxS"
+*** You are running in headless mode.
+1662228829143	Marionette	INFO	Marionette enabled
+1662228829150	Marionette	INFO	Listening on port 53122
+WebDriver BiDi listening on ws://localhost:53111
+Read port: 53122
+1662228829334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofiley5kIxS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53111/devtools/browser/092aaeba-de37-461f-a5b2-a5f236d97dc2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662228858120	Marionette	INFO	Stopped listening on port 53122
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662228947077	geckodriver	INFO	Listening on 127.0.0.1:53303
+1662228950136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ8NEO3"
+*** You are running in headless mode.
+1662228950952	Marionette	INFO	Marionette enabled
+1662228950960	Marionette	INFO	Listening on port 53315
+WebDriver BiDi listening on ws://localhost:53304
+Read port: 53315
+1662228951143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileZ8NEO3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53304/devtools/browser/6653b688-1561-4ac7-91d6-fbcca01d3664
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662229033484	geckodriver	INFO	Listening on 127.0.0.1:53421
+1662229036544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKy6MGp"
+*** You are running in headless mode.
+1662229037416	Marionette	INFO	Marionette enabled
+1662229037426	Marionette	INFO	Listening on port 53436
+WebDriver BiDi listening on ws://localhost:53422
+Read port: 53436
+1662229037641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKy6MGp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53422/devtools/browser/692e28c2-b12d-486d-86fe-c65d7ad3f934
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662229162804	Marionette	INFO	Stopped listening on port 53436
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662229464922	geckodriver	INFO	Listening on 127.0.0.1:53730
+1662229468007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileGBVQnb"
+*** You are running in headless mode.
+1662229468858	Marionette	INFO	Marionette enabled
+1662229468866	Marionette	INFO	Listening on port 53741
+WebDriver BiDi listening on ws://localhost:53731
+Read port: 53741
+1662229469053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileGBVQnb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53731/devtools/browser/9ef5124a-d559-48f7-a0e0-113b520a686e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662229686013	geckodriver	INFO	Listening on 127.0.0.1:53916
+1662229689088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile7EqZYQ"
+*** You are running in headless mode.
+1662229689949	Marionette	INFO	Marionette enabled
+1662229689957	Marionette	INFO	Listening on port 53933
+WebDriver BiDi listening on ws://localhost:53917
+Read port: 53933
+1662229690157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile7EqZYQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53917/devtools/browser/a917ffaa-bf80-49ab-af83-a22a33718efe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662229824333	Marionette	INFO	Stopped listening on port 53933
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662229922759	geckodriver	INFO	Listening on 127.0.0.1:54123
+1662229925850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIMYBER"
+*** You are running in headless mode.
+1662229926748	Marionette	INFO	Marionette enabled
+1662229926756	Marionette	INFO	Listening on port 54136
+WebDriver BiDi listening on ws://localhost:54124
+Read port: 54136
+1662229926942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileIMYBER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54124/devtools/browser/62c2fce0-4254-43f7-9e36-8ba7e9e7c360
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230057643	geckodriver	INFO	Listening on 127.0.0.1:54267
+1662230060712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile93VPUl"
+*** You are running in headless mode.
+1662230061598	Marionette	INFO	Marionette enabled
+1662230061605	Marionette	INFO	Listening on port 54279
+WebDriver BiDi listening on ws://localhost:54268
+Read port: 54279
+1662230061801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile93VPUl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54268/devtools/browser/ecd20464-f59c-4833-9583-86785da59e87
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230132432	Marionette	INFO	Stopped listening on port 54279
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
+1662230194477	geckodriver	INFO	Listening on 127.0.0.1:54421
+1662230197535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefl7N21"
+*** You are running in headless mode.
+1662230198348	Marionette	INFO	Marionette enabled
+1662230198356	Marionette	INFO	Listening on port 54434
+WebDriver BiDi listening on ws://localhost:54422
+Read port: 54434
+1662230198539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefl7N21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54422/devtools/browser/4e9fb338-ff46-4616-854f-71dd340d32c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662230272011	geckodriver	INFO	Listening on 127.0.0.1:54590
+1662230275067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqM4GAA"
+*** You are running in headless mode.
+1662230275956	Marionette	INFO	Marionette enabled
+1662230275963	Marionette	INFO	Listening on port 54603
+WebDriver BiDi listening on ws://localhost:54591
+Read port: 54603
+1662230276166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileqM4GAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54591/devtools/browser/3c729760-057d-43e7-8712-a8b14a028c38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230359977	geckodriver	INFO	Listening on 127.0.0.1:54701
+1662230363040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilejmMpTs"
+*** You are running in headless mode.
+1662230364019	Marionette	INFO	Marionette enabled
+1662230364027	Marionette	INFO	Listening on port 54712
+WebDriver BiDi listening on ws://localhost:54702
+Read port: 54712
+1662230364242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilejmMpTs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54702/devtools/browser/2eeafe8d-3bb8-4f78-a325-49788a7be960
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230440531	Marionette	INFO	Stopped listening on port 54712
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662230460715	geckodriver	INFO	Listening on 127.0.0.1:54816
+1662230463801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileQ9AgF5"
+*** You are running in headless mode.
+1662230464971	Marionette	INFO	Marionette enabled
+1662230464981	Marionette	INFO	Listening on port 54828
+WebDriver BiDi listening on ws://localhost:54817
+Read port: 54828
+1662230465233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileQ9AgF5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54817/devtools/browser/3230af16-70ea-48d9-8a01-17f09b11ef4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230507936	Marionette	INFO	Stopped listening on port 54828
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileQ9AgF5\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileQ9AgF5\sessionCheckpoints.json)
+1662230579512	geckodriver	INFO	Listening on 127.0.0.1:54954
+1662230582576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "54955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefbEgMp"
+*** You are running in headless mode.
+1662230583575	Marionette	INFO	Marionette enabled
+1662230583583	Marionette	INFO	Listening on port 54966
+WebDriver BiDi listening on ws://localhost:54955
+Read port: 54966
+1662230583786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefbEgMp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54955/devtools/browser/adc91fe9-6d58-43cc-b6dd-d169abdcfb12
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230753255	geckodriver	INFO	Listening on 127.0.0.1:55130
+1662230756306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileOkZjtY"
+*** You are running in headless mode.
+1662230757254	Marionette	INFO	Marionette enabled
+1662230757262	Marionette	INFO	Listening on port 55142
+WebDriver BiDi listening on ws://localhost:55131
+Read port: 55142
+1662230757500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileOkZjtY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55131/devtools/browser/b5bf856d-37c1-47b8-9ea0-6f7e4955a382
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662230823220	Marionette	INFO	Stopped listening on port 55142
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662230888237	geckodriver	INFO	Listening on 127.0.0.1:55266
+1662230891316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilezs1Cnx"
+*** You are running in headless mode.
+1662230892140	Marionette	INFO	Marionette enabled
+1662230892147	Marionette	INFO	Listening on port 55279
+WebDriver BiDi listening on ws://localhost:55267
+Read port: 55279
+1662230892330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilezs1Cnx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55267/devtools/browser/c7094ad3-05d1-4a79-be45-4992feb88c22
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662231216380	Marionette	INFO	Stopped listening on port 55279
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofilezs1Cnx\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofilezs1Cnx\sessionCheckpoints.json)
+1662231340382	geckodriver	INFO	Listening on 127.0.0.1:55590
+1662231343469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileDt6CH0"
+*** You are running in headless mode.
+1662231344355	Marionette	INFO	Marionette enabled
+1662231344363	Marionette	INFO	Listening on port 55602
+Read port: 55602
+WebDriver BiDi listening on ws://localhost:55591
+1662231344544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileDt6CH0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55591/devtools/browser/e826f56a-7e58-4312-ba39-5a770ebdda33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662231530447	geckodriver	INFO	Listening on 127.0.0.1:55756
+1662231533534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilehJokDw"
+*** You are running in headless mode.
+1662231534363	Marionette	INFO	Marionette enabled
+1662231534371	Marionette	INFO	Listening on port 55768
+WebDriver BiDi listening on ws://localhost:55757
+Read port: 55768
+1662231534555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilehJokDw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55757/devtools/browser/0c4d35bb-4d76-40ab-be9c-825223e5bf42
+1662231591526	geckodriver	INFO	Listening on 127.0.0.1:55848
+1662231594589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexJiPV6"
+*** You are running in headless mode.
+1662231595423	Marionette	INFO	Marionette enabled
+1662231595431	Marionette	INFO	Listening on port 55861
+WebDriver BiDi listening on ws://localhost:55849
+Read port: 55861
+1662231595683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexJiPV6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55849/devtools/browser/438aa963-afca-43b0-a1c4-3163fbc318d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662231819358	geckodriver	INFO	Listening on 127.0.0.1:56036
+1662231822397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "56037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileTNs4Ai"
+*** You are running in headless mode.
+1662231823241	Marionette	INFO	Marionette enabled
+1662231823250	Marionette	INFO	Listening on port 56051
+WebDriver BiDi listening on ws://localhost:56037
+Read port: 56051
+1662231823457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileTNs4Ai\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56037/devtools/browser/3e63b5fd-34f7-4906-8db4-736d215c7987
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662231977046	geckodriver	INFO	Listening on 127.0.0.1:56177
+1662231980113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "56178" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilenF7kOu"
+*** You are running in headless mode.
+1662231980976	Marionette	INFO	Marionette enabled
+1662231980984	Marionette	INFO	Listening on port 56188
+WebDriver BiDi listening on ws://localhost:56178
+Read port: 56188
+1662231981205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilenF7kOu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56178/devtools/browser/2991ed8f-fe4e-4a45-bf51-8ec514aee846
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662232258518	geckodriver	INFO	Listening on 127.0.0.1:56412
+1662232261591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "56413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile1zQ24f"
+*** You are running in headless mode.
+1662232262443	Marionette	INFO	Marionette enabled
+1662232262450	Marionette	INFO	Listening on port 56424
+WebDriver BiDi listening on ws://localhost:56413
+Read port: 56424
+1662232262714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofile1zQ24f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56413/devtools/browser/11ca1d54-acd9-402b-9e80-5e2d375a75b3
+1662232289768	geckodriver	INFO	Listening on 127.0.0.1:56477
+1662232292820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "56478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexrDXXc"
+*** You are running in headless mode.
+1662232293655	Marionette	INFO	Marionette enabled
+1662232293662	Marionette	INFO	Listening on port 56488
+WebDriver BiDi listening on ws://localhost:56478
+Read port: 56488
+1662232293852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilexrDXXc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56478/devtools/browser/d3666f0a-51f0-43af-964c-f26d989c328e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1662232791710	geckodriver	INFO	Listening on 127.0.0.1:56861
+1662232794756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "56862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileL8aApD"
+*** You are running in headless mode.
+1662232795621	Marionette	INFO	Marionette enabled
+1662232795629	Marionette	INFO	Listening on port 56873
+WebDriver BiDi listening on ws://localhost:56862
+Read port: 56873
+1662232795865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileL8aApD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56862/devtools/browser/124ce081-24c6-4dcd-aa89-e46dbbd102da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662232874985	Marionette	INFO	Stopped listening on port 56873
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileL8aApD\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofileL8aApD\sessionCheckpoints.json)
+1662232951269	geckodriver	INFO	Listening on 127.0.0.1:55753
+1662232954333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "55754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilebboRjZ"
+*** You are running in headless mode.
+1662232955220	Marionette	INFO	Marionette enabled
+1662232955228	Marionette	INFO	Listening on port 55765
+WebDriver BiDi listening on ws://localhost:55754
+Read port: 55765
+1662232955414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilebboRjZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55754/devtools/browser/1e2ba251-ebff-4c50-ba5a-ebf9a0d02c1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662233114055	Marionette	INFO	Stopped listening on port 55765
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
+1662233316088	geckodriver	INFO	Listening on 127.0.0.1:52426
+1662233319189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "52427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilewxxD8x"
+*** You are running in headless mode.
+1662233320016	Marionette	INFO	Marionette enabled
+1662233320023	Marionette	INFO	Listening on port 52438
+WebDriver BiDi listening on ws://localhost:52427
+Read port: 52438
+1662233320200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilewxxD8x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52427/devtools/browser/00c32653-b108-488c-bdd7-76ddf9285c42
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662233498686	geckodriver	INFO	Listening on 127.0.0.1:52630
+1662233501741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "52631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKc6yJm"
+*** You are running in headless mode.
+1662233502594	Marionette	INFO	Marionette enabled
+1662233502602	Marionette	INFO	Listening on port 52642
+WebDriver BiDi listening on ws://localhost:52631
+Read port: 52642
+1662233502800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileKc6yJm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52631/devtools/browser/996b7ba2-6c47-4a0e-b852-f466cf3337d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662233629050	Marionette	INFO	Stopped listening on port 52642
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
+1662233729145	geckodriver	INFO	Listening on 127.0.0.1:52832
+1662233732212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefA73Fd"
+1662233733105	Marionette	INFO	Marionette enabled
+1662233733117	Marionette	INFO	Listening on port 52845
+WebDriver BiDi listening on ws://localhost:52833
+Read port: 52845
+1662233733606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilefA73Fd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52833/devtools/browser/bde9306c-ece9-41fd-9251-02a38e736aff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662233841631	Marionette	INFO	Stopped listening on port 52845
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662233909843	geckodriver	INFO	Listening on 127.0.0.1:52999
+1662233912899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileCJFqd4"
+1662233914045	Marionette	INFO	Marionette enabled
+1662233914055	Marionette	INFO	Listening on port 53013
+WebDriver BiDi listening on ws://localhost:53000
+Read port: 53013
+1662233914351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileCJFqd4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53000/devtools/browser/ea34d690-e598-4352-b8e7-b8d7060b62e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662234027844	Marionette	INFO	Stopped listening on port 53013
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+1662234136611	geckodriver	INFO	Listening on 127.0.0.1:53192
+1662234139676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilescagzu"
+1662234140679	Marionette	INFO	Marionette enabled
+1662234140688	Marionette	INFO	Listening on port 53205
+WebDriver BiDi listening on ws://localhost:53193
+Read port: 53205
+1662234141037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofilescagzu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53193/devtools/browser/88e2f442-7c3a-4b7e-8c0a-7248a2784f7f
+1662234156607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662234160269	Marionette	INFO	Stopped listening on port 53205
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: OperationError: Could not move temporary file(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofilescagzu\sessionCheckpoints.json.tmp) to destination(C:\Users\GABRIE~1.SEB\AppData\Local\Temp\rust_mozprofilescagzu\sessionCheckpoints.json)
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1cf81474100","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3680,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","chrome://global/content/elements/browser-custom-element.js:get loadContext:383","chrome://global/content/elements/browser-custom-element.js:construct:982","chrome://global/content/elements/browser-custom-element.js:connectedCallback:321","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:415","chrome://browser/content/tabbrowser.js:init:59","chrome://browser/content/browser.js:onDOMContentLoaded:1671"]}] Barrier: profile-before-change
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1662234252982	geckodriver	INFO	Listening on 127.0.0.1:53316
+1662234256042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiTxKRY"
+1662234256880	Marionette	INFO	Marionette enabled
+1662234256889	Marionette	INFO	Listening on port 53328
+WebDriver BiDi listening on ws://localhost:53317
+Read port: 53328
+1662234257243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileiTxKRY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53317/devtools/browser/6cb21ddf-6425-4dc9-987c-1148a0e7b196
+1662234342302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662234346520	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662234347970	Marionette	INFO	Stopped listening on port 53328
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2bc76978b00","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3680,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","chrome://global/content/elements/browser-custom-element.js:get loadContext:383","chrome://global/content/elements/browser-custom-element.js:construct:982","chrome://global/content/elements/browser-custom-element.js:connectedCallback:321","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:415","chrome://browser/content/tabbrowser.js:init:59","chrome://browser/content/browser.js:onDOMContentLoaded:1671"]}] Barrier: profile-before-change
+1662234411816	geckodriver	INFO	Listening on 127.0.0.1:53461
+1662234414889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileX52xZk"
+*** You are running in headless mode.
+1662234415726	Marionette	INFO	Marionette enabled
+1662234415735	Marionette	INFO	Listening on port 53472
+WebDriver BiDi listening on ws://localhost:53462
+Read port: 53472
+1662234415936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileX52xZk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53462/devtools/browser/41de75f1-acf9-41e3-9539-046bb5797a94
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+1662234501480	geckodriver	INFO	Listening on 127.0.0.1:53571
+1662234504529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--incognito" "-headless" "--remote-debugging-port" "53572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileREpHs8"
+*** You are running in headless mode.
+1662234505540	Marionette	INFO	Marionette enabled
+1662234505550	Marionette	INFO	Listening on port 53584
+WebDriver BiDi listening on ws://localhost:53572
+Read port: 53584
+1662234505797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.SEB\\AppData\\Local\\Temp\\rust_mozprofileREpHs8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53572/devtools/browser/e17ae893-2c9a-47ee-ab38-72958223288c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://twitter.com."
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.811341e8.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/account/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+1662234569725	Marionette	INFO	Stopped listening on port 53584
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e988.js, line 82: TypeError: can't access dead object
+!!! error running onStopped callback: TypeError: callback is not a function
