@@ -91,21 +91,11 @@ try:
     x=1
     #rodo um while de acordo com a quantidade setada no arquivo de acessos.
     while x<=quantidade:
-        users = browser.find_elements(by=By.XPATH, value='//div[@data-testid="User-Names"]')
         tweets = browser.find_elements(by=By.XPATH, value='//div[@data-testid="tweetText"]')
-        for user,tweet in zip(users,tweets):
+        for tweet in tweets:
             if x<=quantidade:
-                user.find_elements(by=By.XPATH, value='//span')
                 tweet.find_elements(by=By.XPATH, value='//span')
-                texto+='Tweet '
-                texto+=str(x)
-                texto+='\n'
-                texto+='Cabeçalho:\n'
-                texto = texto + user.text
-                texto+='\n'
-                texto+='Texto:\n'
                 texto = texto + tweet.text
-                texto+= '\n\n'
                 x+=1
         browser.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         sleep(2)
@@ -116,6 +106,7 @@ except Exception as excpt:
     print("Fim...")
 
 print("Pronto!")
+texto = texto.replace('\n',' ')
 f.escrever(texto)
 input("Pressione enter para sair...")
 browser.quit()
