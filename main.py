@@ -95,7 +95,7 @@ try:
         for tweet in tweets:
             if x<=quantidade:
                 tweet.find_elements(by=By.XPATH, value='//span')
-                texto = texto + tweet.text
+                texto = texto + tweet.text.replace("\n", "") + '\n'
                 x+=1
         browser.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         sleep(2)
@@ -106,7 +106,6 @@ except Exception as excpt:
     print("Fim...")
 
 print("Pronto!")
-texto = texto.replace('\n',' ')
 f.escrever(texto)
 input("Pressione enter para sair...")
 browser.quit()
