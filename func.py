@@ -8,6 +8,10 @@ def ler():
         resultado.append(linha)
     return resultado
 
-def escrever(texto):
+def escrever(lista):
+    texto = ''
+    for x in lista:
+        texto = texto + x
+        texto = texto + '\n'
     arquivo = open('tweets.txt','w', encoding="utf-8")
     arquivo.write(texto)

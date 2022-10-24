@@ -11,7 +11,7 @@ exe_path = GeckoDriverManager().install()
 service = Service(exe_path)
 options = Options()
 confirm = []
-texto = ''
+texto = []
 
 
 options.add_argument("--incognito")
@@ -89,16 +89,35 @@ try:
     sleep(1)
     print('inicio do scraping')
     x=1
+    y=0
+    texto = []
+    last_position = browser.execute_script("return window.pageYOffset;")
     #rodo um while de acordo com a quantidade setada no arquivo de acessos.
     while x<=quantidade:
         tweets = browser.find_elements(by=By.XPATH, value='//div[@data-testid="tweetText"]')
         for tweet in tweets:
             if x<=quantidade:
                 tweet.find_elements(by=By.XPATH, value='//span')
-                texto = texto + tweet.text.replace("\n", "") + '\n'
-                x+=1
+                item = tweet.text.replace("\n", "")
+                if len(texto) == 0:
+                    texto.append(item)
+                    x+=1
+                    print(x)
+                else:
+                    if item not in texto:
+                        texto.append(item)
+                        x+=1
+                        print(x)
+                    else:
+                        print("repetido")
         browser.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         sleep(2)
+        curr_position = browser.execute_script("return window.pageYOffset;")
+        if curr_position == last_position:
+            sleep(60)
+            browser.refresh()
+            print("Navegador atualizado")
+        last_position = curr_position
 except Exception as excpt:
     print(f"Tivemos uma falha: {excpt}")
     input("Pressione enter para sair...")
